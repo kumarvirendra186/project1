@@ -2,7 +2,7 @@
 void factorial()    
 {    
  int i,fact=1,number;    
- printf("\nEnter a number: ");    
+ printf("\nEnter  number: ");    
   scanf("%d",&number);    
     for(i=1;i<=number;i++){    
       fact=fact*i;    
